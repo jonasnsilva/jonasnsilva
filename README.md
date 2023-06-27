@@ -1,4 +1,4 @@
-## 💙 Olá, meu nome é <strong>Jonas!</strong>
+## 💙 Oi, meu nome é <strong>Jonas!</strong>
 
 ----
 
